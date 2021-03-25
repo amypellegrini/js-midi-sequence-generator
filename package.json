@@ -1,0 +1,12 @@
+{
+  "name": "js-midi-sequence-generator",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "repository": "git@github.com:amypellegrini/js-midi-sequence-generator.git",
+  "author": "Amy Pellegrini <amyvpellegrini@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "midi-file": "^1.1.2"
+  }
+}
